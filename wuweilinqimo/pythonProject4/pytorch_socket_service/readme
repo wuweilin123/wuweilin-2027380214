@@ -1,0 +1,2 @@
+1、运行main.py，启动socket服务端
+2、运行client_test.py，输入图像测试服务器效果
